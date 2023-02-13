@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@media screen and (orientation:portrait) {
+    section {
+        width: 80vw;
+        height: 400px;
+    }
+    div > p > input {
+        width: 28vw;
+    }
+    div > p#sexo {
+        display: flex;
+    }
+    div#res > img {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }    
+}
