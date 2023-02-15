@@ -17,6 +17,19 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
 
+section > div > form > p#botaoc {
+    display: inline;
+}
+
+section > div > form > p#botaop {
+    display: inline;
+    padding-left: 10px;
+}
+
+section > div#res {
+    padding-top: 20px;
+}
+
 footer {
     color: white;
     text-align: center;
