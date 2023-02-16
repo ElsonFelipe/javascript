@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (orientation:portrait) {
+    section {
+        width: 80vw;
+    }
+    input#txtn {
+        width: 100px;
+        
+    }    
+}
