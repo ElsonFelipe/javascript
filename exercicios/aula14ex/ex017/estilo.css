@@ -20,6 +20,15 @@ section {
     text-align: center;
 }
 
+li {
+    list-style: none;
+    padding: 0px;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
 footer {
     color: white;
     text-align: center;
