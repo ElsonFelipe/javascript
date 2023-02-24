@@ -19,6 +19,14 @@ section {
 
 ul#flista {
     width: 150px;
+    padding-inline-start: 0px;
+}
+
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 8px;
+    width: 200px;
 }
 
 footer {

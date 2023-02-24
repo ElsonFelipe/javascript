@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (orientation:portrait) {
+    body {
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    section {
+        width: 80vw;
+    }
+
+    input {
+        width: 100px;        
+    }
+    
+    div#res {
+        padding-top: 20px;
+        text-align: center;
+    }
+}
